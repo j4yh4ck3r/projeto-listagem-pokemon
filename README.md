@@ -31,12 +31,12 @@ Projeto desenvolvido junto de uma vídeo aula do canal **DevDobro** no YouTube, 
 ## Aprendizados
 Durante o desenvolvimento deste projeto junto da vídeo aula do canal DevDobro, pude praticar e consolidar os seguintes pontos:
 
-   - Manipulação do DOM: criação de elementos dinamicamente e atualização da
+   - **Manipulação do DOM:** criação de elementos dinamicamente e atualização da
      interface com JavaScript.
-   - Consumo de API: requisições HTTP (fetch) para buscar dados externos
+   - **Consumo de API:** requisições HTTP (fetch) para buscar dados externos
      (Pokémon).
-   - Estruturação de projeto: organização de arquivos HTML, CSS e JS.
-   - Estilização com CSS: prática de responsividade e personalização de
+   - **Estruturação de projeto:** organização de arquivos HTML, CSS e JS.
+   - **Estilização com CSS:** prática de responsividade e personalização de
      layout.
-   - Boas práticas de código: uso de funções para separar responsabilidades
+   - **Boas práticas de código:** uso de funções para separar responsabilidades
      e deixar o código mais legível.
