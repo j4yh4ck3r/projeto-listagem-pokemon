@@ -9,11 +9,12 @@ Projeto desenvolvido junto de uma vídeo aula do canal **DevDobro** no YouTube, 
 
 ## Estrutura do projeto
 
-listagem-pokemon/ 
-├── index.html   # Página principal 
-├── style.css    # Estilos da interface 
-└── script.js    # Lógica de listagem
-
+````
+   listagem-pokemon/ 
+   ├── index.html   # Página principal 
+   ├── style.css    # Estilos da interface 
+   └── script.js    # Lógica de listagem
+````
 
 ## Como rodar
 1. Clone este repositório:
